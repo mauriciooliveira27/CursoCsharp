@@ -3,16 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\mauri\\onedrive\\\u00E1rea de trabalho\\estudos\\c#\\cursocsharp\\cursocsharp\\classesemetodos\\membros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\classesemetodos\\membros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\mauri\\onedrive\\\u00E1rea de trabalho\\estudos\\c#\\cursocsharp\\cursocsharp\\classesemetodos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\classesemetodos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\mauri\\onedrive\\\u00E1rea de trabalho\\estudos\\c#\\cursocsharp\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\mauri\\onedrive\\\u00E1rea de trabalho\\estudos\\c#\\cursocsharp\\cursocsharp\\fundamentos\\operadoresaritmeticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\fundamentos\\operadoresaritmeticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\mauri\\onedrive\\\u00E1rea de trabalho\\estudos\\c#\\cursocsharp\\cursocsharp\\fundamentos\\lendodados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\fundamentos\\lendodados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\mauri\\onedrive\\\u00E1rea de trabalho\\estudos\\c#\\cursocsharp\\cursocsharp\\classesemetodos\\construtores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\classesemetodos\\construtores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\mauri\\onedrive\\\u00E1rea de trabalho\\estudos\\c#\\cursocsharp\\cursocsharp\\classesemetodos\\exemploenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\classesemetodos\\exemploenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\mauri\\onedrive\\\u00E1rea de trabalho\\estudos\\c#\\cursocsharp\\cursocsharp\\classesemetodos\\struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\classesemetodos\\struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\mauri\\onedrive\\\u00E1rea de trabalho\\estudos\\c#\\cursocsharp\\cursocsharp\\classesemetodos\\props.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\classesemetodos\\props.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\mauri\\onedrive\\\u00E1rea de trabalho\\estudos\\c#\\cursocsharp\\cursocsharp\\classesemetodos\\params.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\classesemetodos\\params.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\mauri\\onedrive\\\u00E1rea de trabalho\\estudos\\c#\\cursocsharp\\cursocsharp\\classesemetodos\\parametrosnomeados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\classesemetodos\\parametrosnomeados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\mauri\\onedrive\\\u00E1rea de trabalho\\estudos\\c#\\cursocsharp\\cursocsharp\\classesemetodos\\metodosestaticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\classesemetodos\\metodosestaticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\mauri\\onedrive\\\u00E1rea de trabalho\\estudos\\c#\\cursocsharp\\cursocsharp\\classesemetodos\\metodoscomretorno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\classesemetodos\\metodoscomretorno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\mauri\\onedrive\\\u00E1rea de trabalho\\estudos\\c#\\cursocsharp\\cursocsharp\\api\\exemplodatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\api\\exemplodatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\mauri\\onedrive\\\u00E1rea de trabalho\\estudos\\c#\\cursocsharp\\cursocsharp\\api\\diretorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC30A33D-90B8-4BE2-B12D-BBDEC5E4B0E6}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\api\\diretorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +62,176 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\Pessoa.cs",
-              "RelativeDocumentMoniker": "CursoCSharp\\ClassesEMetodos\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\Pessoa.cs",
-              "RelativeToolTip": "CursoCSharp\\ClassesEMetodos\\Pessoa.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T16:46:32.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Membros.cs",
-              "DocumentMoniker": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\Membros.cs",
-              "RelativeDocumentMoniker": "CursoCSharp\\ClassesEMetodos\\Membros.cs",
-              "ToolTip": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\Membros.cs",
-              "RelativeToolTip": "CursoCSharp\\ClassesEMetodos\\Membros.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwA4AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T16:42:49.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\Program.cs",
               "RelativeDocumentMoniker": "CursoCSharp\\Program.cs",
               "ToolTip": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\Program.cs",
               "RelativeToolTip": "CursoCSharp\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwCQAAABCAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAE0AAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T12:41:51.745Z",
+              "WhenOpened": "2024-06-30T14:22:28.681Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperadoresAritmeticos.cs",
+              "DocumentMoniker": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\Fundamentos\\OperadoresAritmeticos.cs",
+              "RelativeDocumentMoniker": "CursoCSharp\\Fundamentos\\OperadoresAritmeticos.cs",
+              "ToolTip": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\Fundamentos\\OperadoresAritmeticos.cs",
+              "RelativeToolTip": "CursoCSharp\\Fundamentos\\OperadoresAritmeticos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T01:47:27.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LendoDados.cs",
+              "DocumentMoniker": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\Fundamentos\\LendoDados.cs",
+              "RelativeDocumentMoniker": "CursoCSharp\\Fundamentos\\LendoDados.cs",
+              "ToolTip": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\Fundamentos\\LendoDados.cs",
+              "RelativeToolTip": "CursoCSharp\\Fundamentos\\LendoDados.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T01:47:25.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Construtores.cs",
+              "DocumentMoniker": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\Construtores.cs",
+              "RelativeDocumentMoniker": "CursoCSharp\\ClassesEMetodos\\Construtores.cs",
+              "ToolTip": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\Construtores.cs",
+              "RelativeToolTip": "CursoCSharp\\ClassesEMetodos\\Construtores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T01:45:58.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExemploEnum.cs",
+              "DocumentMoniker": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\ExemploEnum.cs",
+              "RelativeDocumentMoniker": "CursoCSharp\\ClassesEMetodos\\ExemploEnum.cs",
+              "ToolTip": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\ExemploEnum.cs",
+              "RelativeToolTip": "CursoCSharp\\ClassesEMetodos\\ExemploEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T01:45:57.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Struct.cs",
+              "DocumentMoniker": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\Struct.cs",
+              "RelativeDocumentMoniker": "CursoCSharp\\ClassesEMetodos\\Struct.cs",
+              "ToolTip": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\Struct.cs",
+              "RelativeToolTip": "CursoCSharp\\ClassesEMetodos\\Struct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T01:45:55.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Props.cs",
+              "DocumentMoniker": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\Props.cs",
+              "RelativeDocumentMoniker": "CursoCSharp\\ClassesEMetodos\\Props.cs",
+              "ToolTip": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\Props.cs",
+              "RelativeToolTip": "CursoCSharp\\ClassesEMetodos\\Props.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T01:45:54.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Params.cs",
+              "DocumentMoniker": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\Params.cs",
+              "RelativeDocumentMoniker": "CursoCSharp\\ClassesEMetodos\\Params.cs",
+              "ToolTip": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\Params.cs",
+              "RelativeToolTip": "CursoCSharp\\ClassesEMetodos\\Params.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T01:45:53.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParametrosNomeados.cs",
+              "DocumentMoniker": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\ParametrosNomeados.cs",
+              "RelativeDocumentMoniker": "CursoCSharp\\ClassesEMetodos\\ParametrosNomeados.cs",
+              "ToolTip": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\ParametrosNomeados.cs",
+              "RelativeToolTip": "CursoCSharp\\ClassesEMetodos\\ParametrosNomeados.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T01:45:51.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MetodosEstaticos.cs",
+              "DocumentMoniker": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\MetodosEstaticos.cs",
+              "RelativeDocumentMoniker": "CursoCSharp\\ClassesEMetodos\\MetodosEstaticos.cs",
+              "ToolTip": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\MetodosEstaticos.cs",
+              "RelativeToolTip": "CursoCSharp\\ClassesEMetodos\\MetodosEstaticos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T01:45:50.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MetodosComRetorno.cs",
+              "DocumentMoniker": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\MetodosComRetorno.cs",
+              "RelativeDocumentMoniker": "CursoCSharp\\ClassesEMetodos\\MetodosComRetorno.cs",
+              "ToolTip": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\ClassesEMetodos\\MetodosComRetorno.cs",
+              "RelativeToolTip": "CursoCSharp\\ClassesEMetodos\\MetodosComRetorno.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T01:45:46.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExemploDateTime.cs",
+              "DocumentMoniker": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\api\\ExemploDateTime.cs",
+              "RelativeDocumentMoniker": "CursoCSharp\\api\\ExemploDateTime.cs",
+              "ToolTip": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\api\\ExemploDateTime.cs",
+              "RelativeToolTip": "CursoCSharp\\api\\ExemploDateTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T15:25:53.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Diretorios.cs",
+              "DocumentMoniker": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\api\\Diretorios.cs",
+              "RelativeDocumentMoniker": "CursoCSharp\\api\\Diretorios.cs",
+              "ToolTip": "C:\\Users\\mauri\\OneDrive\\\u00C1rea de Trabalho\\estudos\\C#\\CursoCSharp\\CursoCSharp\\api\\Diretorios.cs",
+              "RelativeToolTip": "CursoCSharp\\api\\Diretorios.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:14:03.674Z"
             }
           ]
         }
